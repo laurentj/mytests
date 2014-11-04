@@ -1,0 +1,29 @@
+{
+    "name": "laurentj/mytests",
+    "type": "library",
+    "description": "dummy lib to test composer features",
+    "keywords": [],
+    "homepage": "",
+    "license": "LGPL-2.1",
+    "support": {
+        "source" : "https://github.com/laurentj/mytests/tree/master"
+    },
+    "authors": [
+        {
+            "name": "Laurent Jouanneau",
+            "email": "laurent@jelix.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "classmap": [ "lib/" ]
+    },
+    "archive": {
+        "exclude": ["/tests"]
+    },
+    "minimum-stability": "stable"
+}
