@@ -1,7 +1,7 @@
 <?php
 
 /**
- * class
+ * class to
  */
 class Info {
 
