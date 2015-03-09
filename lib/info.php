@@ -1,7 +1,7 @@
 <?php
 
 /**
- * class to show
+ * class to show some
  */
 class Info {
 
