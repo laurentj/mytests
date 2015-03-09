@@ -3,5 +3,3 @@ mytests
 
 dummy repo
 
-
-yes
