@@ -1,6 +1,6 @@
 {
     "name": "laurentj/mytests",
-    "type": "library",
+    "type": "jelix-module",
     "description": "dummy lib to test composer features",
     "keywords": [],
     "homepage": "",
