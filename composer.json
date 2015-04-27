@@ -25,5 +25,15 @@
     "archive": {
         "exclude": ["/tests"]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "extra": {
+        "jelix": {
+            "modules-dir" : [
+                "lib/modules/"
+            ],
+            "plugins-dir" : [
+                "lib/plugins/"
+            ]
+        }
+    }
 }
